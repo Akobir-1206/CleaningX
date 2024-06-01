@@ -1,0 +1,16 @@
+.btn{
+width: 150px;
+height: 50px;
+gap: 0px;
+border-radius: 14px;
+opacity: 0px;
+background: #0075FF;
+color: aliceblue;
+border: #0075FF;
+
+}
+.btn:hover{
+    cursor: pointer;
+    background:aliceblue ;
+    color: #0075FF;
+}

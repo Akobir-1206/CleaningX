@@ -1,0 +1,60 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    padding-left: 100px;
+    margin: 0 auto;
+}
+.main__left{
+    /* display: flex; */
+    /* align-items: center; */
+    width: 620px;
+}
+.main__title{
+    width: 518px;
+height: 148px;
+top: -3px;
+gap: 0px;
+opacity: 0px;
+font-size: 68px;
+font-weight: 700;
+line-height: 73.98px;
+text-align: left;
+
+
+}
+.mainpic{
+    margin-left: 30px;
+    width: 500px;
+gap: 0px;
+padding-right: 90px;
+
+}
+.main__text{
+    width: 520px;
+left: 720px;
+gap: 0px;
+opacity: 0px;
+font-size: 21px;
+font-weight: 400;
+line-height: 30.01px;
+text-align: left;
+color: #6E7191;
+}
+.main__bottom{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+    align-items: center;
+    padding-top: 50px;
+    width: 600px;
+
+}
+.telimg{
+  width: 80px;  
+  padding-left: 100px;
+  
+}
+.telnumber{
+ padding-top: 10px;
+}

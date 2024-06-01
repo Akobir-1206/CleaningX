@@ -1,0 +1,15 @@
+.btn02{
+    width: 150px;
+    height: 50px;
+    gap: 0px;
+    border-radius: 14px;
+    opacity: 0px;
+    background: rgb(249, 249, 249);
+    color: rgb(9, 133, 241);
+    border: rgb(43, 41, 41);
+    }
+    .btn02:hover{
+        cursor: pointer;
+        background:#0075FF ;
+        color: #e6e9ec;
+    }
